@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 url: https://powerplatformexperts.github.io
+=======
+url: https://powerplatformexperts.github.io/
+>>>>>>> parent of b54e6ba... Update _config.yml
 baseurl: /agency-jekyll-theme/
 
 # Site settings
