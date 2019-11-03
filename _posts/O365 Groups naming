@@ -1,9 +1,0 @@
-$Setting = Get-AzureADDirectorySetting -Id (Get-AzureADDirectorySetting | where -Property DisplayName -Value "Group.Unified" -EQ).id
-$Setting.Values
-
-
-
-$Setting["PrefixSuffixNamingRequirement"] =“GRP_[GroupName]_[Department]"
-$Setting["CustomBlockedWordsList"]=“Payroll,CEO,HR"
-
-Set-AzureADDirectorySetting -Id (Get-AzureADDirectorySetting | where -Property DisplayName -Value "Group.Unified" -EQ).id -DirectorySetting $Setting
