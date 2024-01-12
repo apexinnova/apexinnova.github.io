@@ -8,7 +8,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://deneb-jekyll.tortoizthemes.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
-site_logo: "/assets/images/logo_1.png"
+site_logo: "/assets/images/logo.png"
 copyright: "Copyright &copy; 2020 <span>Deneb</span>. All rights reserved."
 
 permalink: "/:title"
