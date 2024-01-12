@@ -4,21 +4,21 @@ layout: home
 # Slider
 slider:
   - image: "/assets/images/banner_1.png"
-    heading: "We Are Creative <br><span>NEXT-GEN TECH INNOVATORS</span>"
-    heading2: "Empowering Businesses with Cutting-Edge IT Solutions"
+    heading: "We Are NEXT-GEN <br><span>TECH INNOVATORS</span>"
+    heading2: "Empowering Businesses with Cutting-Edge IT Solutions."
     text: "Welcome to the future of IT services, where your vision meets our innovation. At Next-Gen Tech Innovators, we specialize in transforming the digital landscape of your business."
     button:
       name: "Hire Us"
       link: "#"
   - image: "/assets/images/banner_02.png"
-    heading: "We Are Creative <br><span>NEXT-GEN TECH INNOVATORS</span>"
+    heading: "We Are NEXT-GEN <br><span>TECH INNOVATORS</span>"
     heading2: "Empowering Businesses with Cutting-Edge IT Solutions"
     text: "Welcome to the future of IT services, where your vision meets our innovation. At Next-Gen Tech Innovators, we specialize in transforming the digital landscape of your business."
     button:
       name: "Hire Me"
       link: "#"
   - image: "/assets/images/banner_03.png"
-    heading: "We Are Creative <br><span>NEXT-GEN TECH INNOVATORS/span>"
+    heading: "We Are NEXT-GEN <br><span>TECH INNOVATORS</span>"
     heading2: "Empowering Businesses with Cutting-Edge IT Solutions"
     text: "Welcome to the future of IT services, where your vision meets our innovation. At Next-Gen Tech Innovators, we specialize in transforming the digital landscape of your business."
     button:
