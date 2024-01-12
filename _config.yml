@@ -1,15 +1,15 @@
-title: "Apex Innova Consulting"
+title: "Apex Innova Consulting -"
 email: "apexinnova@gmail.com"
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.apexinnova.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://deneb-jekyll.tortoizthemes.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 site_logo: "/assets/images/logo.png"
-copyright: "Copyright &copy; 2024 <span>Apex Innova</span>. All rights reserved."
+copyright: "Copyright &copy; 2020 <span>Deneb</span>. All rights reserved."
 
 permalink: "/:title"
 
@@ -20,8 +20,8 @@ plugins:
   - jekyll-paginate-v2
   - jekyll-archives
 
-facebook_url: "https://www.apexinnova.com"
-twitter_url: "https://www.apexinnova.com"
+facebook_url: "https://www.facebook.com/tortoiztheme"
+twitter_url: "https://twitter.com/tortoizthemes"
 instagram_url: "https://instagram.com/"
 
 hero_image: "/assets/images/breadcrumb_bg.jpg"
