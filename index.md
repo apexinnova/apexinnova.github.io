@@ -6,35 +6,35 @@ slider:
   - image: "/assets/images/banner_1.png"
     heading: "We Are NEXT-GEN <br><span>TECH INNOVATORS</span>"
     heading2: "Empowering Businesses with Cutting-Edge IT Solutions."
-    text: "Welcome to the future of IT services, where your vision meets our innovation. At Next-Gen Tech Innovators, we specialize in transforming the digital landscape of your business."
+    text: "Welcome to the future of IT services, where your vision meets our innovation. At ApexInnova Consulting, we specialize in transforming the digital landscape of your business."
     button:
       name: "Hire Us"
       link: "#"
   - image: "/assets/images/banner_02.png"
     heading: "We Are NEXT-GEN <br><span>TECH INNOVATORS</span>"
     heading2: "Empowering Businesses with Cutting-Edge IT Solutions"
-    text: "Welcome to the future of IT services, where your vision meets our innovation. At Next-Gen Tech Innovators, we specialize in transforming the digital landscape of your business."
+    text: "Welcome to the future of IT services, where your vision meets our innovation. At ApexInnova Consulting, we specialize in transforming the digital landscape of your business."
     button:
       name: "Hire Me"
       link: "#"
   - image: "/assets/images/banner_03.png"
     heading: "We Are NEXT-GEN <br><span>TECH INNOVATORS</span>"
     heading2: "Empowering Businesses with Cutting-Edge IT Solutions"
-    text: "Welcome to the future of IT services, where your vision meets our innovation. At Next-Gen Tech Innovators, we specialize in transforming the digital landscape of your business."
+    text: "Welcome to the future of IT services, where your vision meets our innovation. At ApexInnova Consulting, we specialize in transforming the digital landscape of your business."
     button:
       name: "Hire Me"
       link: "#"
 
 # Services
 services:  
-  heading: "Our Service"
-  text: "When unknow printer took a gallery of type and scramblted it to make a type specimen book"
+  heading: "Our Services"
+  text: "Leading the Way in Business Process Automation, Data Analytics, and App Development."
 
 # About 
 about: 
   heading: "Why You Hire Us?"
-  text: "Proin ipsum arcu, lobortis id ullamcorper nec, vehicula eget magna. Sed ut malesuada magna, eget lacinia sapien. Nam molestie non ex sit amet ornare. Nunc in pellentesque ipsum, vel vulputate sapien."
-  text2: "Suspendisse potenti. Aliquam elementum felis purus, quis vulputate libero semper nec. Morbi tincidunt maximus nisl vel placerat. Curabitur at ligula ac diam elementum hendrerit. Suspendisse nec metus eu est laoreet hendrerit vitae non ipsum. Nam faucibus elementum arcu, eget eleifend tortor."
+  text: "Partner with ApexInnova Consulting to harness the power of technology in driving your business forward. "
+  text2: "We are committed to delivering solutions that are not just innovative but also practical and reliable."
   image: "/assets/images/about.png"
   button:
     name: "Read More"
@@ -130,5 +130,5 @@ latest_blog_post:
 # Contact Area
 contact_area:
   heading: "Get In Touch With Us"
-  description: "When unknow printer took a gallery of type and scramblted it to make a type specimen book"
+  description: "Your Journey Towards Digital Excellence Begins Here!"
 ---
