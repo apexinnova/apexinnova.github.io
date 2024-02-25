@@ -6,15 +6,15 @@ slider:
   - image: "/assets/images/banner_1.png"
     heading: "We Are NEXT-GEN <br><span>TECH INNOVATORS</span>"
     heading2: "Empowering Businesses with Cutting-Edge IT Solutions."
-    text: "Welcome to the future of IT services, where your vision meets our innovation. At ApexInnova Consulting, we specialize in transforming the digital landscape of your business."
+    text: "Welcome to the future of IT services, where your vision meets our innovation. At ApexInnova, we specialize in transforming the digital landscape of your business."
     button:
-      name: "Hire Us"
+      name: "Contact Us"
       link: "#"
 
 # Services
 services:  
   heading: "Our Services"
-  text: "Leading the Way in Business Process Automation, Data Analytics, and App Development. Partner with ApexInnova Consulting to harness the power of technology in driving your business forward."
+  text: "Leading the Way in Business Process Automation, Data Analytics, and App Development. Partner with ApexInnova to harness the power of technology in driving your business forward."
 
 # About 
 about: 
