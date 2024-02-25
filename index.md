@@ -14,7 +14,7 @@ slider:
 # Services
 services:  
   heading: "Our Services"
-  text: "Leading the Way in Business Process Automation, Data Analytics, and App Development."
+  text: "Leading the Way in Business Process Automation, Data Analytics, and App Development. Partner with ApexInnova Consulting to harness the power of technology in driving your business forward."
 
 # About 
 about: 
@@ -29,7 +29,7 @@ about:
 # Achivement
 achivement: 
   heading: "Over 500+ Completed work & Still Counting"
-  text: "we tailor our approach to offer strategic, technology-driven solutions that propel your operations, decision-making, and competitive edge."
+  text: "We tailor our approach to offer strategic, technology-driven solutions that propel your operations, decision-making, and competitive edge."
   text2: "Trust in ApexInnova Consulting to transform your business with solutions that are designed for impact, efficiency, and enduring success."
   list:
    - icon: "/assets/images/icon_7.png"

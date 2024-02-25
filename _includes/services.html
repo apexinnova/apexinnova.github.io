@@ -22,7 +22,9 @@
 					<div class="info">
 						<h4><a href="{{service.url}}">{{service.title}}</a></h4>
 						<p>{{service.content | strip_html | truncatewords:"10" }}</p>
+						{%comment%}
 						<a href="{{service.url}}" class="link_btn">Read More</a>
+						{%endcomment%}
 					</div>
 				</div>
 			</div>
