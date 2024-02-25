@@ -10,6 +10,7 @@ slider:
     button:
       name: "Hire Us"
       link: "#"
+  {% comment %}
   - image: "/assets/images/banner_02.png"
     heading: "We Are NEXT-GEN <br><span>TECH INNOVATORS</span>"
     heading2: "Empowering Businesses with Cutting-Edge IT Solutions"
@@ -24,6 +25,7 @@ slider:
     button:
       name: "Hire Me"
       link: "#"
+{% endcomment %}
 
 # Services
 services:  
