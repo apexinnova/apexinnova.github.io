@@ -29,20 +29,20 @@ about:
 # Achivement
 achivement: 
   heading: "Over 500+ Completed work & Still Counting"
-  text: "Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus at orci non risus luctus commodo. Ut nibh tellus, faucibus nec gravida."
-  text2: "Duis quis ipsum leo. Praesent vitae tellus ac ante porta mattis vel non ex. Quisque a finibus justo."
+  text: "we tailor our approach to offer strategic, technology-driven solutions that propel your operations, decision-making, and competitive edge."
+  text2: "Trust in ApexInnova Consulting to transform your business with solutions that are designed for impact, efficiency, and enduring success."
   list:
    - icon: "/assets/images/icon_7.png"
-     name: "300+"
+     name: "500+"
      description: "Projects Done"
    - icon: "/assets/images/icon_8.png"
-     name: "250+"
-     description: "Projects Done"
+     name: "100+"
+     description: "Active Clients"
    - icon: "/assets/images/icon_9.png"
      name: "200+"
      description: "Active Projects"
    - icon: "/assets/images/icon_10.png"
-     name: "5+"
+     name: "20+"
      description: "Years Exerience"
 
 # Pricing
