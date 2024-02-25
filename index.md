@@ -4,7 +4,7 @@ layout: home
 # Slider
 slider:
   - image: "/assets/images/banner_1.png"
-    heading: "We Are NEXT-GEN <br><span>TECH INNOVATORS-11</span>"
+    heading: "We Are NEXT-GEN <br><span>TECH INNOVATORS</span>"
     heading2: "Empowering Businesses with Cutting-Edge IT Solutions."
     text: "Welcome to the future of IT services, where your vision meets our innovation. At ApexInnova Consulting, we specialize in transforming the digital landscape of your business."
     button:
