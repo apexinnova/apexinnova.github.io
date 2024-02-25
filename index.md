@@ -19,7 +19,7 @@ services:
 # About 
 about: 
   heading: "Why You Hire Us?"
-  text: "Partner with ApexInnova Consulting to harness the power of technology in driving your business forward. "
+  text: "Partner with ApexInnova to harness the power of technology in driving your business forward. "
   text2: "We are committed to delivering solutions that are not just innovative but also practical and reliable."
   image: "/assets/images/about.png"
   button:
@@ -30,7 +30,7 @@ about:
 achivement: 
   heading: "Over 500+ Completed work & Still Counting"
   text: "We tailor our approach to offer strategic, technology-driven solutions that propel your operations, decision-making, and competitive edge."
-  text2: "Trust in ApexInnova Consulting to transform your business with solutions that are designed for impact, efficiency, and enduring success."
+  text2: "Trust in ApexInnova to transform your business with solutions that are designed for impact, efficiency, and enduring success."
   list:
    - icon: "/assets/images/icon_7.png"
      name: "500+"
