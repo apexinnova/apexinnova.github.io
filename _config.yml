@@ -9,7 +9,7 @@ url: "https://apexinnova.github.io/" # the base hostname & protocol for your sit
 twitter_username: jekyllrb
 github_username:  jekyll
 site_logo: "/assets/images/logo2.png"
-copyright: "Copyright &copy; 2020 <span>Deneb</span>. All rights reserved."
+copyright: "Copyright &copy; 2024 <span>ApexInnova</span>. All rights reserved."
 
 permalink: "/:title"
 
