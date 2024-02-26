@@ -28,22 +28,22 @@ about:
 
 # Achivement
 achivement: 
-  heading: "Over 500+ Completed work & Still Counting"
+  heading: "Over 15 years of experience delivering solutions that make a difference"
   text: "We tailor our approach to offer strategic, technology-driven solutions that propel your operations, decision-making, and competitive edge."
   text2: "Trust in ApexInnova to transform your business with solutions that are designed for impact, efficiency, and enduring success."
   list:
-   - icon: "/assets/images/icon_7.png"
-     name: "500+"
-     description: "Projects Done"
+   - icon: "/assets/images/icon_10.png"
+     name: "15+"
+     description: "Years Exerience"
    - icon: "/assets/images/icon_8.png"
      name: "100+"
      description: "Active Clients"
    - icon: "/assets/images/icon_9.png"
-     name: "200+"
+     name: "500+"
      description: "Active Projects"
-   - icon: "/assets/images/icon_10.png"
+   - icon: "/assets/images/icon_7.png"
      name: "20+"
-     description: "Years Exerience"
+     description: "Partners & Affliates"
 
 # Pricing
 pricing:
